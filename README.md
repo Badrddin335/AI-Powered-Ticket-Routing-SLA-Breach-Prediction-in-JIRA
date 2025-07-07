@@ -5,36 +5,47 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-brightgreen.svg)](https://www.python.org/)
 [![Made by Arooj Javed](https://img.shields.io/badge/Made%20by-Arooj%20Javed-blueviolet)](#author)
 
+---
 
-🔮 **Revolutionize your support operations using AI-based automation in JIRA**  
+## 🔍 Project Overview
 
-- 🚀 Boost SLA compliance.
+Managing technical support efficiently in JIRA can be challenging with manual triage and SLA tracking. This project introduces an **AI-powered automation layer** that:
 
-- 📊 Automate ticket classification. 
+- Auto-routes tickets based on predicted category and severity  
+- Predicts SLA breaches before they occur  
+- Prioritizes high-risk tickets using rule-based and ML logic  
+- Helps teams stay ahead with proactive support operations
 
-- ⚙️ Predict resolution delays, all with Python and machine learning.
+🎯 **Goal**: Reduce support delays, improve ticket handling efficiency, and increase SLA adherence through intelligent automation.
 
 ---
 
-## 🌟 Overview
+## 🛠️ Features
 
-Modern technical support teams often struggle with manual ticket routing, backlog prioritization, and SLA breaches. This project delivers a complete solution using AI and data-driven automation built into the JIRA environment.
-
-Whether you're managing a support team or optimizing ITSM workflows, this toolset helps reduce time-to-resolution, prevent SLA violations, and enhance team productivity.
+- ✅ AI-driven ticket classification based on description & metadata  
+- ⏰ Real-time SLA breach prediction based on response patterns  
+- 📈 Dashboard-ready data export for team insights  
+- ⚙️ Modular Python scripts for plug-and-play usage with JIRA REST API  
+- 📥 Works seamlessly with Jira Service Desk projects  
 
 ---
 
-## 💡 Key Features
+## 📚 Published Research
 
-- ✅ **Automated Ticket Classification:** Classify new JIRA issues by category (e.g., Bug, Feature, Incident) using natural language processing (NLP).
-  
-- ⏱ **SLA Breach Prediction:** Predict whether an open issue is at risk of missing its SLA based on historical ticket patterns.
-  
-- 📤 **Auto-routing Logic:** Assign issues to the most appropriate support group based on AI tagging and JIRA custom fields.
-  
-- 📈 **Interactive Dashboards:** Visualize ticket risk levels, SLA trends, and issue heatmaps via reporting dashboards.
-  
-- 🔌 **API Integration Ready:** Easily integrate the solution into existing JIRA workflows and CI/CD pipelines.
+📄 **Title**: *Optimizing Jira-Based Support Operations With AI*  
+🗞️ **Journal**: IJARIIT – International Journal of Advance Research, Ideas and Innovations in Technology  
+🔗 [Read Full Paper](https://www.ijariit.com/manuscript/optimizing-jira-based-support-operations-with-ai-a-lightweight-framework-for-smart-ticket-routing-and-sla-breach-prediction/)
+
+---
+
+## ✍️ Blog & Article Coverage
+
+📘 **Dev.to Post**  
+📝 [AI-Powered Ticket Routing & SLA Prediction in JIRA – My Real-World Automation Journey](https://dev.to/aroojjaved93/ai-powered-ticket-routing-sla-breach-prediction-in-jira-my-real-world-automation-journey-1adb)
+
+📘 **Medium Article**  
+📝 [AI-Powered JIRA Ticket Routing & SLA Breach Prediction with Python](https://aroojjaved93.medium.com/ai-powered-jira-ticket-routing-sla-breach-prediction-with-python-d80772a1680c)
+
 
 ---
 
