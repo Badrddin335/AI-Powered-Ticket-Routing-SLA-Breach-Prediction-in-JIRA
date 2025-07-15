@@ -101,7 +101,7 @@ python api/app.py
 
 ---
 
-## 📊 Workflow Overview
+# 📊 Workflow Overview
 
 ### 🔁 Automation Flowchart
 ![Workflow Flowchart](screenshots/ai_ticket_routing_flowchart.PNG)
