@@ -49,7 +49,7 @@ Managing technical support efficiently in JIRA can be challenging with manual tr
 
 ---
 
-## 📁 Project Structure
+# 📁 Project Structure
 
 ```bash
 ├── /data/                → Sample datasets & JIRA export files
