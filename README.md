@@ -38,7 +38,7 @@ Managing technical support efficiently in JIRA can be challenging with manual tr
 
 ---
 
-## ✍️ Blog & Article Coverage
+# ✍️ Blog & Article Coverage
 
 📘 **Dev.to Post**  
 📝 [AI-Powered Ticket Routing & SLA Prediction in JIRA – My Real-World Automation Journey](https://dev.to/aroojjaved93/ai-powered-ticket-routing-sla-breach-prediction-in-jira-my-real-world-automation-journey-1adb)
