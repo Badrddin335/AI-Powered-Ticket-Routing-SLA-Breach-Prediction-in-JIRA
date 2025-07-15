@@ -7,7 +7,7 @@
 
 ---
 
-## 🔍 Project Overview
+ 🔍 Project Overview
 
 Managing technical support efficiently in JIRA can be challenging with manual triage and SLA tracking. This project introduces an **AI-powered automation layer** that:
 
