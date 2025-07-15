@@ -75,7 +75,7 @@ Managing technical support efficiently in JIRA can be challenging with manual tr
 
 ---
 
-## 🚀 Getting Started
+# 🚀 Getting Started
 
 1. Clone the repo  
 ```bash
